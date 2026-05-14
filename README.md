@@ -1,4 +1,4 @@
-# Deploying MCP Server on Ubuntu EC2 (Production Guide)
+# Create and Deploy Your MCP Server on AWS EC2 (Production Guide)
 
 This guide walks you through hosting `mcp_server.py` persistently on an Ubuntu EC2 instance using `systemd`, Nginx as a reverse proxy, and optionally TLS via Let's Encrypt.
 
